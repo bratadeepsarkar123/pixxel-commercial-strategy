@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Local env / secrets
+.env
+.env.*
+
+# Build artifacts (keep source .md; ignore generated if added later)
+*.aux
+*.log
+*.out
