@@ -2,7 +2,7 @@
 ## Master Source Document | FY2026–FY2028
 
 > **Purpose:** Single source of truth for 5-page board deck, Gamma PPT, and resume bullets.  
-> **Status:** Analysis complete (Phases 1–3). Deck PDF not yet built — use this file for Gamma input. **Resume:** added to `Bratadeep_Sarkar_Product.tex` + master (2026-06-24).  
+> **Status:** Analysis complete · **Deck built** (`deliverables/Pixxel_Commercial_Strategy_Deck.pdf`) **Resume:** added to `Bratadeep_Sarkar_Product.tex` + master (2026-06-24).  
 > **Project label:** Self Project (never ICG recruitment)  
 > **Last updated:** 2026-06-24  
 > **All numbers traceable in:** `assumptions-log.md` | **Citations in:** `research/sources.md`
@@ -392,7 +392,7 @@ SatSure is both **consortium partner** and **PMFBY analytics incumbent** (44 dis
 
 ---
 
-## Resume bullets (on Product.tex + master — deck PDF still pending Gamma)
+## Resume bullets (on Product.tex + master — deck approved 2026-06-24)
 
 1. **TAM:** Sized India satellite precision-ag TAM at **$102M by FY2028** (bottom-up: 139M ha → 55% addressable → 12% adoption × $11.10/ha); triangulated against **$334M** precision-ag market (IMARC).
 
@@ -417,4 +417,4 @@ SatSure is both **consortium partner** and **PMFBY analytics incumbent** (44 dis
 
 ---
 
-*End of master document. Ready for Gamma PPT conversion when user returns.*
+*End of master document. Deck built: `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`. Resume handoff: `RESUME_AGENT_PROMPT.md`.*

@@ -30,7 +30,7 @@ Independent consulting case (ICG Section B Task 1 spec). Resume label: **Self Pr
 
 | **Master document** | ✅ **`final.md`** — single source for Gamma / PPT |
 
-| Phase 4 — 5-page PDF | ⏳ Waiting — feed `final.md` to Gamma |
+| Phase 4 — 5-page PDF | ✅ `deliverables/Pixxel_Commercial_Strategy_Deck.pdf` (+ `.pptx`) |
 
 | Resume integration | ✅ On `Bratadeep_Sarkar_Product.tex` + master (`Bratadeep_Sarkar.pdf`) |
 
@@ -70,9 +70,9 @@ Independent consulting case (ICG Section B Task 1 spec). Resume label: **Self Pr
 
 
 
-## Resume integration (after user approves deck)
+## Resume integration
 
 
 
-Swap Servota for **Pixxel Space Technologies — Commercial Strategy Analysis | Self Project** on `Bratadeep_Sarkar_Product.tex`. Three O/A/O bullets in `final.md` appendix. Senior review draft already updated: `Bratadeep_Sarkar_SeniorReview.tex`.
+Deck approved. Pixxel is on `Bratadeep_Sarkar_Product.tex` + `Bratadeep_Sarkar_IITK_SPO_Master.tex`. Resume agent: read **`RESUME_AGENT_PROMPT.md`** (verify numbers, recompile PDFs). Senior review draft: `Bratadeep_Sarkar_SeniorReview.tex`.
 

@@ -12,3 +12,10 @@ Thumbs.db
 *.aux
 *.log
 *.out
+
+# Superseded Gamma exports — rebuild uses PPT_V3.zip only
+PPT/
+PPT_V2/
+PPT_V3/
+PPT.zip
+PPT_V2.zip

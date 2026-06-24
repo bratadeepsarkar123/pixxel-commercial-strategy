@@ -48,7 +48,7 @@
 - [x] Bottom-up TAM with documented assumptions and sanity check
 - [x] Weighted segment matrix → primary vertical + FY2026–28 sequence
 - [x] Unit economics → DaaS / SaaS / hybrid recommendation
-- [ ] Exactly 5-page board PDF (use `final.md` for Gamma)
+- [x] Exactly 5-page board PDF (use `final.md` for Gamma)
 - [x] Every deck number traceable in `assumptions-log.md`
 - [x] Resume on `Bratadeep_Sarkar_Product.tex` + master (user approved 2026-06-24; deck PDF still pending)
 

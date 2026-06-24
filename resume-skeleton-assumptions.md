@@ -1,7 +1,7 @@
 # Pixxel resume case numbers — analysis complete
 
 **Status:** Phases 1–3 complete (2026-06-24). Numbers below trace to `final.md`, `assumptions-log.md`, and `research/sources.md`.  
-**Resume:** On `Bratadeep_Sarkar_Product.tex` + master (2026-06-24). Deck PDF still pending Gamma.  
+**Resume:** On `Bratadeep_Sarkar_Product.tex` + `Bratadeep_Sarkar_IITK_SPO_Master.tex` (2026-06-24). Deck approved: `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`.  
 **Senior review:** `Bratadeep_Sarkar_SeniorReview.tex` uses these numbers for structure feedback.
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-## Draft resume bullets (from `final.md` — pending deck approval)
+## Resume bullets (verified — on Product.tex + master)
 
 1. **TAM:** Sized India satellite precision-ag TAM at **$102M by FY2028** (bottom-up: 139M ha → 55% addressable → 12% adoption × $11.10/ha); triangulated against **$334M** precision-ag market (IMARC).
 
@@ -49,8 +49,6 @@
 
 ---
 
-## Next steps
+## Next steps (resume agent)
 
-1. User feeds **`final.md`** to Gamma (5-page map at end of file).
-2. Export PDF → `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`.
-3. After user approves deck → add project to `master_resume.md` + swap into `Bratadeep_Sarkar_Product.tex` (replace Servota).
+See **`RESUME_AGENT_PROMPT.md`** — verify numbers, confirm Servota is off Product one-pager, recompile PDFs.
