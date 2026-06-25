@@ -3,19 +3,29 @@
 Thumbs.db
 *.swp
 *.tmp
+.cursor/
+.cursorrules
 
 # Local env / secrets
 .env
 .env.*
 
-# Build artifacts (keep source .md; ignore generated if added later)
+# LaTeX / build noise
 *.aux
 *.log
 *.out
 
-# Superseded Gamma exports — rebuild uses PPT_V3.zip only
+# Internal workflow files (not published)
+AGENT_PROMPT.md
+CONTEXT.md
+RESUME_AGENT_PROMPT.md
+resume-skeleton-assumptions.md
+pixxel_gamma_prompts.md
+
+# Local slide export archives (committed deck lives in deliverables/)
 PPT/
 PPT_V2/
 PPT_V3/
 PPT.zip
 PPT_V2.zip
+PPT_V3.zip

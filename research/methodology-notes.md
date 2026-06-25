@@ -1,7 +1,7 @@
 # Methodology Notes — Phase 0
 
-> Completed: 2026-06-24. Resources from `AGENT_PROMPT.md` Phase 0.  
-> Purpose: Internalize consulting methodology **before** writing analysis files.
+> Completed: 2026-06-24.  
+> Purpose: Consulting methodology applied before writing analysis files.
 
 ---
 

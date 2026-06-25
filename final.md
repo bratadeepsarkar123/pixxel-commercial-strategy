@@ -1,9 +1,8 @@
 # Pixxel Space Technologies — Commercial Strategy (India)
 ## Master Source Document | FY2026–FY2028
 
-> **Purpose:** Single source of truth for 5-page board deck, Gamma PPT, and resume bullets.  
-> **Status:** Analysis complete · **Deck built** (`deliverables/Pixxel_Commercial_Strategy_Deck.pdf`) **Resume:** added to `Bratadeep_Sarkar_Product.tex` + master (2026-06-24).  
-> **Project label:** Self Project (never ICG recruitment)  
+> **Purpose:** Single source of truth for the 5-page board deck and supporting analysis.  
+> **Status:** Analysis complete · **Deck:** `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`  
 > **Last updated:** 2026-06-24  
 > **All numbers traceable in:** `assumptions-log.md` | **Citations in:** `research/sources.md`
 
@@ -380,7 +379,7 @@ SatSure is both **consortium partner** and **PMFBY analytics incumbent** (44 dis
 
 ---
 
-## 5-page deck map (for Gamma / PDF build)
+## 5-page deck map
 
 | Page | Headline | Primary exhibit |
 |------|----------|-----------------|
@@ -392,13 +391,13 @@ SatSure is both **consortium partner** and **PMFBY analytics incumbent** (44 dis
 
 ---
 
-## Resume bullets (on Product.tex + master — deck approved 2026-06-24)
+## Key findings (summary)
 
-1. **TAM:** Sized India satellite precision-ag TAM at **$102M by FY2028** (bottom-up: 139M ha → 55% addressable → 12% adoption × $11.10/ha); triangulated against **$334M** precision-ag market (IMARC).
+1. **TAM:** India satellite precision-ag analytics TAM **$102M by FY2028** (bottom-up: 139M ha → 55% addressable → 12% adoption × $11.10/ha); triangulated against **$334M** precision-ag market (IMARC).
 
-2. **Vertical:** Built weighted segment matrix (market size, WTP, competition, regulation); recommended **PMFBY index underwriting** as primary vertical (score **3.90 vs 3.55**) with FY2027 enterprise expansion.
+2. **Vertical:** Weighted segment matrix (market size, WTP, competition, regulation); **PMFBY index underwriting** as primary vertical (score **3.90 vs 3.55**) with FY2027 enterprise expansion.
 
-3. **Monetization:** Compared DaaS vs SaaS unit economics; recommended **SaaS-led hybrid** (55% Aurora / 35% DaaS) targeting **$12.2M** India ag revenue and **58%** blended gross margin by FY2028.
+3. **Monetization:** DaaS vs SaaS unit economics → **SaaS-led hybrid** (55% Aurora / 35% DaaS) targeting **$12.2M** India ag revenue and **58%** blended gross margin by FY2028.
 
 ---
 
@@ -413,8 +412,8 @@ SatSure is both **consortium partner** and **PMFBY analytics incumbent** (44 dis
 | `assumptions-log.md` | Every number + source |
 | `research/sources.md` | Primary citations |
 | `research/methodology-notes.md` | Phase 0 consulting method |
-| **`final.md`** | **This file — deck/Gamma source** |
+| **`final.md`** | **This file — master narrative + deck outline** |
 
 ---
 
-*End of master document. Deck built: `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`. Resume handoff: `RESUME_AGENT_PROMPT.md`.*
+*End of master document. Deck: `deliverables/Pixxel_Commercial_Strategy_Deck.pdf`.*

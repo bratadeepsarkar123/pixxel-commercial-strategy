@@ -30,7 +30,7 @@
 
 | ID | Source | URL | Used for |
 |----|--------|-----|----------|
-| S011 | ICG Problem Statement — Section B Task 1 | `../secy recruitment '26.md` | Case mandate, $95M funding, 400+ entities, >$500M capital |
+| S011 | Case brief — Pixxel commercial strategy mandate | Public filings + company press | Case mandate, $95M funding, 400+ entities, >$500M capital |
 | S012 | IN-SPACe / market context (via PS) | — | 400+ private space-tech entities; >$500M cumulative capital |
 | S013 | MoSPI — GDP press note FY2024-25 | https://www.mospi.gov.in/sites/default/files/press_release/NAD_PR_30may2025.pdf | Ag GVA ₹53.85 lakh cr (current prices) |
 | S014 | PIB — Agriculture GVA growth | https://www.pib.gov.in/PressReleasePage.aspx?PRID=2200999 | Ag sector GVA growth 4.6% (2024-25) |

@@ -1,78 +1,68 @@
-# Pixxel Commercial Strategy
+# Pixxel Commercial Strategy (India)
 
+**Author:** [Bratadeep Sarkar](https://github.com/bratadeepsarkar123)  
+**Project type:** Independent strategy case study (Self Project)  
+**Client context:** Pixxel Space Technologies — hyperspectral Earth observation, Aurora analytics, national EO PPP  
+**Horizon:** FY2026–FY2028
 
+---
 
-Independent consulting case (ICG Section B Task 1 spec). Resume label: **Self Project** — never "ICG recruitment."
+## Executive summary
 
+Board-style commercial strategy for Pixxel’s India agriculture vertical:
 
+| # | Recommendation | FY2028 anchor |
+|---|----------------|---------------|
+| 1 | Size India satellite precision-ag analytics TAM at **$102M** (base) | PMFBY **$72M** · Enterprise **$30M** |
+| 2 | Enter via **PMFBY crop-insurance index underwriting** first | Weighted score **3.90 vs 3.55** vs enterprise precision ag |
+| 3 | Monetize through a **SaaS-led hybrid** (55% Aurora / 35% DaaS / 10% services) | **$12.2M** India ag revenue · **~58%** blended gross margin |
 
-## Status (2026-06-24)
+---
 
+## Repository structure
 
+| Path | Contents |
+|------|----------|
+| **`final.md`** | Master narrative — recommendations, exhibits, deck outline |
+| **`deliverables/Pixxel_Commercial_Strategy_Deck.pdf`** | 5-page board deck (primary deliverable) |
+| `deliverables/Pixxel_Commercial_Strategy_Deck.pptx` | Editable slide deck |
+| `deliverables/slides/` | Processed slide PNGs |
+| `analysis/` | Issue tree, TAM model, segment matrix, unit economics |
+| `research/sources.md` | 38 primary/secondary citations |
+| `assumptions-log.md` | Every number tagged verified or `[ASSUMPTION]` |
+| `scripts/build_deck.py` | Rebuild PDF/PPTX from `PPT_V3.zip` slide exports |
 
-| Phase | Status |
+---
 
-|-------|--------|
+## How to read this case
 
-| Phase 0 — Methodology | ✅ `research/methodology-notes.md` |
+1. Start with **`deliverables/Pixxel_Commercial_Strategy_Deck.pdf`** (5 min).
+2. Drill into **`final.md`** for full argumentation.
+3. Trace any number via **`assumptions-log.md`** → **`research/sources.md`**.
 
-| Phase 1 — Issue tree | ✅ `analysis/01-issue-tree.md` |
+---
 
-| Phase 2 — Research | ✅ `research/sources.md` (38 citations) |
+## Rebuild deck (optional)
 
-| Phase 3a — TAM | ✅ `analysis/02-tam-model.md` |
+```bash
+pip install -r requirements.txt
+python scripts/build_deck.py
+```
 
-| Phase 3b — Segments | ✅ `analysis/03-segment-comparison.md` |
+Requires `PPT_V3.zip` in the repo root (slide PNG exports). Output lands in `deliverables/`.
 
-| Phase 3c — Monetization | ✅ `analysis/04-daas-vs-saas.md` |
+---
 
-| Assumptions log | ✅ `assumptions-log.md` (65+ line items) |
+## Method
 
-| **Master document** | ✅ **`final.md`** — single source for Gamma / PPT |
+- MECE issue tree + hypothesis-driven prioritization  
+- Bottom-up TAM (139M ha → 55% addressable → 12% adoption × $11.10/ha) triangulated to IMARC precision-ag subset  
+- Weighted segment scoring (market size, WTP, competition, regulation)  
+- DaaS vs SaaS unit economics → hybrid recommendation  
 
-| Phase 4 — 5-page PDF | ✅ `deliverables/Pixxel_Commercial_Strategy_Deck.pdf` (+ `.pptx`) |
+---
 
-| Resume integration | ✅ On `Bratadeep_Sarkar_Product.tex` + master (`Bratadeep_Sarkar.pdf`) |
+## Contact
 
-
-
-## Start here
-
-
-
-1. **`final.md`** — deck/Gamma source (5-page map at end)
-
-2. `CONTEXT.md` — stage router + success criteria
-
-3. `AGENT_PROMPT.md` — full execution contract
-
-4. `resume-skeleton-assumptions.md` — case numbers + draft resume bullets
-
-
-
-## Three recommendations (summary)
-
-
-
-1. **TAM:** India satellite precision-ag analytics = **$102M by FY2028** (PMFBY **$72M** \| Enterprise **$30M**)
-
-2. **Vertical:** **PMFBY crop insurance first** (3.90 vs 3.55); enterprise from FY2027
-
-3. **Monetization:** **SaaS-led hybrid** — Pixxel India ag revenue **$2.7M → $6.7M → $12.2M** (FY26–28); **58%** margin
-
-
-
-## PS source
-
-
-
-`CONSULT PROJECTS/secy recruitment '26.md` — Section B, Task 1 (Pix and Profit)
-
-
-
-## Resume integration
-
-
-
-Deck approved. Pixxel is on `Bratadeep_Sarkar_Product.tex` + `Bratadeep_Sarkar_IITK_SPO_Master.tex`. Resume agent: read **`RESUME_AGENT_PROMPT.md`** (verify numbers, recompile PDFs). Senior review draft: `Bratadeep_Sarkar_SeniorReview.tex`.
-
+**Bratadeep Sarkar** — IIT Kanpur (B.Tech EE)  
+[LinkedIn](https://linkedin.com/in/bratadeep-sarkar-iitk) · [GitHub](https://github.com/bratadeepsarkar123)
