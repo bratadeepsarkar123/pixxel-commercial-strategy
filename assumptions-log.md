@@ -10,7 +10,7 @@ Every number used in analysis or `final.md` appears here with source or `[ASSUMP
 
 | ID | Metric / Claim | Value | Source | Notes |
 |----|----------------|-------|--------|-------|
-| A001 | Pixxel total funding raised | **$95M** | S005, S009, PS (S011) | CEO cited in Orbital Today Jan 2026 |
+| A001 | Pixxel total funding raised | **$95M** | S005, S009, S011 | CEO cited in Orbital Today Jan 2026 |
 | A002 | Indian private space-tech entities | **400+** | S011 (case brief) | Market context |
 | A003 | Indian space sector cumulative capital | **>$500M** | S011 (case brief) | Market context |
 | A004 | PPP constellation size | **12 satellites** | S001, S002 | National EO constellation |
